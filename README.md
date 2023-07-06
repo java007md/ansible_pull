@@ -1,2 +1,3 @@
 # ansible_pull
-for system setup
+for system setup via ansible-pull
+
