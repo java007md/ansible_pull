@@ -1,0 +1,6 @@
+cups               
+firefox            
+gh                 
+plex-desktop       
+snapd              
+yubioath-desktop   

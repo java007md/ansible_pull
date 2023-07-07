@@ -11,4 +11,5 @@
 
   tasks:
     - include_tasks: tasks/packages.yml
-      
+    - include_tasks: tasks/snap_installs.yml
+    - include_tasks: tasks/flatpak_installs.yml

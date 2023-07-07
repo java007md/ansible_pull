@@ -1,0 +1,6 @@
+com.obsproject.Studio                 
+io.github.troyeguo.koodo-reader       
+org.gimp.GIMP                         
+org.gpodder.gpodder                   
+org.kde.kdenlive                                                 
+org.stellarium.Stellarium             

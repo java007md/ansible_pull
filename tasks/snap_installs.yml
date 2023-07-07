@@ -1,0 +1,9 @@
+- name: Install commonly used snaps
+  community.general.snap:
+    name:
+      - cups
+      - firefox
+      - gh
+      - plex-desktop
+      - snapd
+      - yubioath-desktop
