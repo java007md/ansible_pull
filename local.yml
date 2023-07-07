@@ -8,9 +8,9 @@
     apt:
       update_cache: yes
     changed_when: False
-  - include_tasks: tasks/flatpak_remote_repo.yml
-
+  
   tasks:
+    - include_tasks: tasks/flatpak_remote_repo.yml
     - include_tasks: tasks/packages.yml
     - include_tasks: tasks/snap_installs.yml
     - include_tasks: tasks/flatpak_installs.yml
